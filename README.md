@@ -1,2 +1,2 @@
 # IntroStat
-Open-source statistical package written in Python and PyQt5
+An open-source statistical package written in Python and PyQt5
