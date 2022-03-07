@@ -28,4 +28,5 @@ IntroStat is an open-source statistical package written in Python and PyQt5 for 
   - Simple linear regression
  
 # Download 
-![Windows](https://drive.google.com/file/d/1ksNStm9t4Mw7d_F8lcm1FnOEsvEuzwIL/view?usp=sharing)
+[Windows](https://drive.google.com/file/d/1LTUnqXVmUB2SUiL76r2ib5IeoyIT2rCC/view?usp=sharing)
+
