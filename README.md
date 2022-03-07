@@ -2,7 +2,7 @@
 IntroStat is an open-source statistical package written in Python and PyQt5 for introductory and intermediate statistics. It offers a "plain-text" approach to statistical analysis and relatively has no learning curve. It can serve as a useful tool for teaching and learning statistics. Also, it can be used for preliminary data analysis.
 
 
-# Features
+# Main Features
 - Descriptive statistics
   - Frequency distribution
   - Summary statistics
@@ -27,3 +27,5 @@ IntroStat is an open-source statistical package written in Python and PyQt5 for 
     - Kendall
   - Simple linear regression
  
+# Download 
+![Windows](https://icons8.com/icon/108792/windows-10)
