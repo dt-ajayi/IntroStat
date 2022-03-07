@@ -14,7 +14,7 @@ IntroStat is an open-source statistical package written in Python and PyQt5 for 
   - Poisson distribution
   - Normal distribution
 - Statistical tests
-  - Chi-square test of independence with Fisher's exact test (2x2 table only)
+  - Chi-square test of independence with Fisher's exact test
   - McNemar test
   - T-test
     - One-sample
