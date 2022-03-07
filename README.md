@@ -30,3 +30,18 @@ IntroStat is an open-source statistical package written in Python and PyQt5 for 
 # Download 
 [Windows](https://drive.google.com/file/d/1NCmVKmS9oVZA_u7MwD8kfNfR8WwMx14l/view?usp=drivesdk) 
 
+
+# Contribution 
+Contributions in any form are welcome, including:
+- Documentation
+- Bug reports
+- Additional features
+
+You can contact the author via the following e-mail addresses:
+- [GMail](mailto:dtb.ajayi@gmail.com)
+- [Chrisland University](david.ajayi@chrislanduniversity.edu.ng)
+
+# Support
+This project is based on  *Introduction to Biostatistics* course taught by the author of this package in Chrisland University, Abeokuta, Nigeria. If you want support this project you can donate [here](www.buymeacoffee.com/dtajayi).
+Thank you!
+
