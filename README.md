@@ -42,9 +42,9 @@ You can contact the author via the following e-mail addresses:
 - [Chrisland University](mailto:david.ajayi@chrislanduniversity.edu.ng)
 
 # Support
-This project is based on  *Introduction to Biostatistics* course taught by the author of this package in Chrisland University, Abeokuta, Nigeria. 
+This project is based on  *Introduction to Biostatistics* course taught by the author in Chrisland University, Abeokuta, Nigeria. 
 <br>
-If you want support this project you can donate [here](buymeacoffee.com/dtajayi).
+If you want support this project you can donate <a href="https://www.buymeacoffee.com/dtajayi" target="_blank">here</a>.
 <br>
 Thank you!
 
