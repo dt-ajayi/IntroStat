@@ -8,3 +8,22 @@ IntroStat is an open-source statistical package written in Python and PyQt5 for 
   - Summary statistics
     - Ungrouped data
     - Grouped data
+- Probability distribution
+  - Bayes' rule (two events)
+  - Binomial distribution
+  - Poisson distribution
+  - Normal distribution
+- Statistical tests
+  - Chi-square test of independence with Fisher's exact test (2x2 table only)
+  - McNemar test
+  - T-test
+    - One-sample
+    - Two-sample
+    - Paired
+  - One-way ANOVA
+  - Correlation
+    - Pearson
+    - Spearman
+    - Kendall
+  - Simple linear regression
+ 
