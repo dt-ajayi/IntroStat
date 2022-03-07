@@ -37,7 +37,7 @@ Contributions in any form are welcome, including:
 - Bug reports
 - Additional features
 
-You can contact the author via the following e-mail addresses:
+You can contact the author via any of the following e-mail addresses:
 - [GMail](mailto:dtb.ajayi@gmail.com)
 - [Chrisland University](mailto:david.ajayi@chrislanduniversity.edu.ng)
 
