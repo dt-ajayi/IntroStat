@@ -44,7 +44,7 @@ You can contact the author via the following e-mail addresses:
 # Support
 This project is based on  *Introduction to Biostatistics* course taught by the author of this package in Chrisland University, Abeokuta, Nigeria. 
 <br>
-If you want support this project you can donate [here](www.buymeacoffee.com/dtajayi).
+If you want support this project you can donate [here](buymeacoffee.com/dtajayi).
 <br>
 Thank you!
 
