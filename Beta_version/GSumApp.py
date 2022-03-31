@@ -28,6 +28,10 @@ class IntError2(MyError):
     msg = "*** Frequency must be a whole number ***"
 
 
+class ClassWidthError(MyError):
+    msg = "*** Class width not constant ***"
+
+
 errMsg = "*** Incorrect Input(s) ***"
 
 
@@ -197,12 +201,17 @@ class GSumGui(QDialog):
             df["lcb"] = df["LL"] - 0.5
             df["ucb"] = df["UL"] + 0.5
             df["fx"] = df["f"]*df["x"]
+            df["wc"] = df["ucb"] - df["lcb"]
+
+            if len(pd.unique(df["wc"]).tolist()) > 1:
+                raise ClassWidthError()
+
             sum_fx = df["fx"].sum()
             sum_f = df["f"].sum()
             _mean = round(sum_fx/sum_f, dp)
             df["xmms"] = (df["x"] - _mean)**2
             df["fxmms"] = df["f"]*df["xmms"]
-            _std = round((df["fxmms"].sum()/(len(ul)-1))**0.5, dp)
+            _std = round((df["fxmms"].sum()/(sum_f-1))**0.5, dp)
 
             cond = df["f"] == df["f"].max() 
 
@@ -294,6 +303,9 @@ class GSumGui(QDialog):
 
         except LengthError:
             result = LengthError.msg
+
+        except ClassWidthError:
+            result = ClassWidthError.msg
             
         except:
             result = errMsg
